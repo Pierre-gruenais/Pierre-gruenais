@@ -6,12 +6,12 @@ Je suis ouvert aux opportunités de collaboration et toujours partant pour déco
 
 # 🌐 Technologies et Outils
 
-# 🔧 Langages et Frameworks :
+## 🔧 Langages et Frameworks :
 
 - ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) **PHP**
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) **SQL**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) **CSS3** (Responsive Design)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) **CSS3** (Responsive Design)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) **Laravel**
 
@@ -33,7 +33,3 @@ Je suis ouvert aux opportunités de collaboration et toujours partant pour déco
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) **GitHub**
 - ![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?logo=google-drive&logoColor=white) **Google Drive**
 - ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white) **Discord**
-
-
-
-
