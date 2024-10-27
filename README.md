@@ -1,6 +1,7 @@
-👋 Salut !
+# 👋 *Salut !*
 
-Je suis un développeur web en constante évolution, toujours à l'affût de nouvelles technologies pour créer des projets stimulants. Mon parcours m'a amené à explorer divers outils et frameworks modernes qui enrichissent chaque jour ma pratique du code.
+## Je suis un développeur web en constante évolution, toujours à l'affût de nouvelles technologies pour créer des projets stimulants. 
+> Mon parcours m'a amené à explorer divers outils et frameworks modernes qui enrichissent chaque jour ma pratique du code.
 
 Je suis ouvert aux opportunités de collaboration et toujours partant pour découvrir de nouvelles technologies. N'hésitez pas à jeter un œil à mes projets ou à me contacter pour échanger !
 
